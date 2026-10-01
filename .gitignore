@@ -1,0 +1,4 @@
+udock
+*.log
+test/
+core
